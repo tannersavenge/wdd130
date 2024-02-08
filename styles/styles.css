@@ -1,5 +1,7 @@
 body {
     background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 .nav_link {
     padding: 10%;
@@ -13,4 +15,9 @@ body {
 
 #sub_title {
     color: red;
+}
+
+#img {
+    text-align: center;
+    margin: 0 auto;
 }
