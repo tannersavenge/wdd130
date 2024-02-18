@@ -1,0 +1,25 @@
+html, body {
+    margin: 0 auto;
+
+    text-align: center;
+  }
+
+.Image {
+    width: 100%;
+    height: auto; /* To maintain aspect ratio */
+    display: block; /* Remove any extra space below the image */
+  }
+  
+.centered-image {
+    border-radius: 50%;
+    width: 25%; /* Set your desired width */
+    height: 25%; /* Set your desired height */
+    object-fit: cover; /* Maintains the aspect ratio and covers the entire container */
+}
+
+.block img{
+    border-radius: 25%;
+    background-color: blue;
+
+    
+}

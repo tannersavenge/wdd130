@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300&family=Roboto+Mono:ital,wght@1,700&display=swap');
+
+body {
+    background-color: #fcfbfb;
+    font-family: "DM sans", Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+
+}
+h2 {
+    margin: 0;
+    font-family: "DM sans", Arial, sans-serif;
+}
+
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+  }
+
+.home-title {
+    font-family: "DM sans", Arial, sans-serif;
+    font-size: 2em;
+}
+nav a {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+                
+
